@@ -1,4 +1,4 @@
-#red colour mask 
+#red colour detection (but orange ho raha hai :( ) 
 import cv2 
 import numpy as np 
 vid = cv2.VideoCapture(0) 
